@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781073498445</value>
+    <value>1781210800837</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -1020,6 +1020,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781037572592-sulgchm03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando un objeto es lanzado o cae siguiendo determinadas condiciones físicas, su trayectoria puede representarse mediante una función cuadrática.</p>\n<p>En esta sesión utilizaremos nuestros conocimientos sobre las parábolas para interpretar y construir un modelo matemático que describa una situación real de caída libre.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1066,6 +1078,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781037628882-fmc030ag9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Imagina que una pelota es lanzada hacia arriba y su altura viene dada por una función cuadrática. Apoyate en el recurso de Geogebra insertado en este bloque que describe la trayectoria de una pelota de tenis. </p>\n<p>Observa la representación gráfica y responde:</p>\n<p><strong>¿Qué forma tiene la trayectoria?</strong><br /><strong>¿Cuál es el punto más alto alcanzado?</strong><br /><strong>¿En qué instante comienza a descender?</strong><br /><strong>¿Qué ocurre cuando la gráfica corta al eje horizontal?</strong><br /><strong>Anota tus respuestas y compáralas con las de tu grupo.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1108,6 +1132,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1158,6 +1194,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781038651325-5z5rqvvic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de trabajar con GeoGebra, elabora una explicación en la que relaciones la representación gráfica con la situación estudiada.</p>\n<p>Intenta utilizar correctamente conceptos como:</p>\n<p><em>• Función cuadrática.</em></p>\n<p><em>• Parábola.</em></p>\n<p><em>• Vértice.</em></p>\n<p><em>• Puntos de corte.</em></p>\n<p><em>• Crecimiento y decrecimiento.</em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1203,6 +1251,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781038899208-tyaaq0qfv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comprueba lo aprendido<br />Antes de continuar, responde en tu cuaderno:</p>\n<p><strong>¿Qué representa el vértice de la parábola en esta situación?</strong><br /><strong>¿Qué información obtenemos de los puntos de corte con el eje horizontal?</strong><br /><strong>¿Cómo puede ayudarnos GeoGebra a interpretar una situación real?</strong><br /><strong>Comenta tus respuestas con el resto del grupo y corrige aquellas ideas que sean necesarias.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1286,6 +1346,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781038984768-gurqrmcho","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si ya has construido un modelo matemático utilizando una función cuadrática.</p>\n<p>Analiza ahora la información obtenida para comprender qué nos dice la gráfica sobre la situación estudiada y cómo podemos utilizar esos datos para explicar un fenómeno real.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1339,6 +1411,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039058655-7szv9sy02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Observa los resultados obtenidos en las sesiones anteriores y responde:</p>\n<p><strong>• ¿Cuál es el valor máximo o mínimo de una función?</strong></p>\n<p><strong>• ¿Qué representa el vértice?</strong></p>\n<p><strong>• ¿Qué significado tienen los puntos donde la gráfica corta los ejes?</strong></p>\n<p><strong>• ¿Cómo describirías el comportamiento de la función?</strong><br /></p>\n<p><strong></strong></p>\n<p>Explica con tus propias palabras cómo las funciones cuadráticas pueden ayudarnos a estudiar situaciones reales.</p>\n<p>Utiliza ejemplos trabajados en clase y apóyate en la representación gráfica para justificar tus respuestas.<br /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1384,6 +1468,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039191598-eyd7wkq51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Piensa sobre el trabajo realizado hasta ahora.</p>\n<p><strong>¿Qué has aprendido durante el proyecto?</strong><br /><strong>¿Qué parte te ha resultado más interesante?</strong><br /><strong>¿Qué conocimientos necesitarás para elaborar el producto final?</strong><br /><strong>Anota tus conclusiones en tu cuaderno.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1467,6 +1563,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039380618-n55brs48a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de las sesiones anteriores hemos aprendido a interpretar funciones cuadráticas, utilizar GeoGebra y construir modelos matemáticos.</p>\n<p>Ahora es el momento de organizar toda esa información y elaborar el producto final del proyecto.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1516,6 +1624,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039419610-3z5z3e0fj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tu trabajo final deberá contener:</p>\n<p><strong>• Descripción de la situación estudiada.</strong></p>\n<p><strong>• Representación gráfica realizada con GeoGebra.</strong></p>\n<p><strong>• Explicación del modelo matemático utilizado.</strong></p>\n<p><strong>• Interpretación del vértice y de los puntos de corte.</strong></p>\n<p><strong>• Conclusiones personales sobre el fenómeno analizado.</strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1565,6 +1685,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039476611-97n96ubmq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em>Comprueba que:</em></p>\n<p>✓ Has respondido a todas las cuestiones.</p>\n<p>✓ Has utilizado correctamente el lenguaje matemático.</p>\n<p>✓ La gráfica es clara y fácil de interpretar.</p>\n<p>✓ Has citado las fuentes de información utilizadas.</p>\n<p>✓ Tu trabajo está bien organizado y presentado.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1648,6 +1780,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039853511-bxprkhv7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta página encontrarás materiales que te ayudarán a comprender mejor las funciones cuadráticas y su aplicación a situaciones reales.</p>\n<p>Puedes consultar estos recursos durante el desarrollo del proyecto o utilizarlos para ampliar tus conocimientos.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1690,6 +1834,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1768,12 +1924,25 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Este espacio reúne materiales y herramientas que pueden facilitar la puesta en práctica del proyecto y servir como apoyo para el profesorado.<br /></p>
-<p>Accede a través del enlace: </p>
-<p><a href="https://www.symbaloo.com/shared/AAAAA2AvDHcAA41_W3fsqw==" title="">https://www.symbaloo.com/shared/AAAAA2AvDHcAA41_W3fsqw==</a></p>
+<p>Accede a través del enlace: <a href="https://www.symbaloo.com/home/mix/13eP2K5KMF" title="">https://www.symbaloo.com/home/mix/13eP2K5KMF</a></p>
+<p><br /></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781040214827-jgh8apzez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este espacio reúne materiales y herramientas que pueden facilitar la puesta en práctica del proyecto y servir como apoyo para el profesorado.<br /></p>\n<p>Accede a través del enlace: </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA2AvDHcAA41_W3fsqw==\" title=\"\">https://www.symbaloo.com/shared/AAAAA2AvDHcAA41_W3fsqw==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781040214827-jgh8apzez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este espacio reúne materiales y herramientas que pueden facilitar la puesta en práctica del proyecto y servir como apoyo para el profesorado.<br /></p>\n<p>Accede a través del enlace: <a href=\"https://www.symbaloo.com/home/mix/13eP2K5KMF\" title=\"\">https://www.symbaloo.com/home/mix/13eP2K5KMF</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1860,6 +2029,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1912,6 +2093,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781041565802-550oatpyy","img_0":{"img":"{{context_path}}/content/resources/Infografia Seguridad Digital GARCIA_MORALES_FRANCISCO_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Infografia Seguridad Digital GARCIA_MORALES_FRANCISCO_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1956,6 +2149,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781042826469-n912n67mu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿He evitado incluir datos personales?<br />¿He citado las fuentes utilizadas?<br />¿He respetado los derechos de autor?<br />¿He utilizado las herramientas digitales de forma responsable?<br />¿Mi trabajo respeta las normas de convivencia digital?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2043,6 +2248,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781043009374-ig8nvonm2","markdownInfoDurationInput":"","markdownInfoDurationTextInput":"Duración","markdownInfoParticipantsInput":"","markdownInfoParticipantsTextInput":"Agrupamiento","markdownTextarea":"La evaluación será continua y tendrá en cuenta el trabajo realizado durante todas las sesiones del proyecto.\n\nSe valorará la comprensión de las funciones cuadráticas, el uso de GeoGebra, la correcta interpretación de las gráficas, la participación en las actividades y la elaboración del producto final.\n","markdownFeedbackInput":"Mostrar retroalimentación","markdownFeedbackTextarea":"","markdownTextareaHtml":"<p>La evaluación será continua y tendrá en cuenta el trabajo realizado durante todas las sesiones del proyecto.</p>\n<p>Se valorará la comprensión de las funciones cuadráticas, el uso de GeoGebra, la correcta interpretación de las gráficas, la participación en las actividades y la elaboración del producto final.</p>","markdownFeedbackTextareaHtml":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2081,10 +2298,130 @@
           <odeBlockId>block-mq775c6u-65p5drww2</odeBlockId>
           <odeIdeviceId>idevice-1781043220467-88qseyby9</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1781043220467-88qseyby9%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20las%20funciones%20cuadr%E1ticas%22%2C%22Uso%20de%20GeoGebra%22%2C%22Producto%20final%22%2C%22Competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Comprende%20y%20explica%20correctamente%20todos%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Comprende%20la%20mayor%EDa%20de%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22los%20conceptos.%20Necesita%20mejorar%20la%20comprensi%F3n%20de%20los%20contenidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20de%20forma%20aut%F3noma%20y%20correcta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20con%20peque%F1as%20ayudas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22peque%F1as%20ayudas.%20Presenta%20dificultades%20en%20el%20manejo%20de%20la%20herramienta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20trabajo%20est%E1%20completo%2C%20organizado%20y%20bien%20presentado.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20trabajo%20cumple%20la%20mayor%EDa%20de%20los%20requisitos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20trabajo%20necesita%20mejoras%20importantes.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20las%20herramientas%20digitales%20de%20forma%20segura%20y%20responsable.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20la%20mayor%EDa%20de%20las%20normas%20de%20seguridad%20digital.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Necesita%20mejorar%20el%20uso%20responsable%20de%20las%20herramientas%20digitales%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20las%20funciones%20cuadr%E1ticas%22%2C%22Uso%20de%20GeoGebra%22%2C%22Producto%20final%22%2C%22Competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Comprende%20y%20explica%20correctamente%20todos%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Comprende%20la%20mayor%EDa%20de%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22los%20conceptos.%20Necesita%20mejorar%20la%20comprensi%F3n%20de%20los%20contenidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20de%20forma%20aut%F3noma%20y%20correcta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20con%20peque%F1as%20ayudas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22peque%F1as%20ayudas.%20Presenta%20dificultades%20en%20el%20manejo%20de%20la%20herramienta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20trabajo%20est%E1%20completo%2C%20organizado%20y%20bien%20presentado.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20trabajo%20cumple%20la%20mayor%EDa%20de%20los%20requisitos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20trabajo%20necesita%20mejoras%20importantes.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20las%20herramientas%20digitales%20de%20forma%20segura%20y%20responsable.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20la%20mayor%EDa%20de%20las%20normas%20de%20seguridad%20digital.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Necesita%20mejorar%20el%20uso%20responsable%20de%20las%20herramientas%20digitales%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Rúbrica de Evaluación</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1781043220467-88qseyby9%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20las%20funciones%20cuadr%E1ticas%22%2C%22Uso%20de%20GeoGebra%22%2C%22Producto%20final%22%2C%22Competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Comprende%20y%20explica%20correctamente%20todos%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Comprende%20la%20mayor%EDa%20de%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22los%20conceptos.%20Necesita%20mejorar%20la%20comprensi%F3n%20de%20los%20contenidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20de%20forma%20aut%F3noma%20y%20correcta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20con%20peque%F1as%20ayudas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22peque%F1as%20ayudas.%20Presenta%20dificultades%20en%20el%20manejo%20de%20la%20herramienta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20trabajo%20est%E1%20completo%2C%20organizado%20y%20bien%20presentado.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20trabajo%20cumple%20la%20mayor%EDa%20de%20los%20requisitos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20trabajo%20necesita%20mejoras%20importantes.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20las%20herramientas%20digitales%20de%20forma%20segura%20y%20responsable.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20la%20mayor%EDa%20de%20las%20normas%20de%20seguridad%20digital.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Necesita%20mejorar%20el%20uso%20responsable%20de%20las%20herramientas%20digitales%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20las%20funciones%20cuadr%E1ticas%22%2C%22Uso%20de%20GeoGebra%22%2C%22Producto%20final%22%2C%22Competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Comprende%20y%20explica%20correctamente%20todos%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Comprende%20la%20mayor%EDa%20de%20los%20conceptos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22los%20conceptos.%20Necesita%20mejorar%20la%20comprensi%F3n%20de%20los%20contenidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20de%20forma%20aut%F3noma%20y%20correcta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20GeoGebra%20con%20peque%F1as%20ayudas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22peque%F1as%20ayudas.%20Presenta%20dificultades%20en%20el%20manejo%20de%20la%20herramienta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20trabajo%20est%E1%20completo%2C%20organizado%20y%20bien%20presentado.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20trabajo%20cumple%20la%20mayor%EDa%20de%20los%20requisitos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20trabajo%20necesita%20mejoras%20importantes.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20las%20herramientas%20digitales%20de%20forma%20segura%20y%20responsable.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20la%20mayor%EDa%20de%20las%20normas%20de%20seguridad%20digital.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Necesita%20mejorar%20el%20uso%20responsable%20de%20las%20herramientas%20digitales%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ER%FAbrica%20de%20Evaluaci%F3n%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ER%FAbrica%20de%20Evaluaci%F3n%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6qur2s-qo0bv96mu</odePageId>
+      <odeBlockId>block-mq9wmw34-ovhxrp3w1</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6qur2s-qo0bv96mu</odePageId>
+          <odeBlockId>block-mq9wmw34-ovhxrp3w1</odeBlockId>
+          <odeIdeviceId>idevice-1781206962156-8ecc6n7d4</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Lista de Cotejo para Evaluación</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A3%A0%A2%A4%AB%A4%A0%A3%A7%A4%BF%AA%F7%F1%F1%A4%FC%A5%F6%A6%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FB%E1%E6%F3%B2%F6%F7%B2%D1%FD%E6%F7%F8%FD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%DA%F7%E0%E0%F3%FF%FB%F7%FC%E6%F3%B2%F6%F7%B2%F7%E4%F3%FE%E7%F3%F1%FBa%FC%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C7%E6%FB%FE%FB%E8%F3%B2%D5%F7%FD%F5%F7%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C0%F7%E2%E0%F7%E1%F7%FC%E6%F3%B2%FE%F3%B2%D4%E7%FC%F1%FBa%FC%B2%D1%E7%F3%F6%E0s%E6%FB%F1%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%E6%F7%E0%E2%E0%F7%E6%F3%B2%FE%F3%B2%F5%E0s%F4%FB%F1%F3%B2%FD%F0%E6%F7%FC%FB%F6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C0%F7%FE%F3%F1%FB%FD%FC%F3%B2%F7%FE%B2%FF%FD%F6%F7%FE%FD%B2%F1%FD%FC%B2%FE%F3%B2%E1%FB%E6%E7%F3%F1%FBa%FC%B2%F3%F1%E6%E7%F3%FE%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C2%F3%E0%E6%FB%F1%FB%E2%F3%B2%F3%F1%E6%FB%E4%F3%FF%F7%FC%E6%F7%B4%FC%F0%E1%E2%A9%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C7%E6%FB%FE%FB%E8%F3%B2%FE%F3%B2%E6%F7%F1%FC%FD%FE%FD%F5%7F%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%E0%F7%E1%E2%FD%FC%E1%F3%F0%FE%F7%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6qur2s-qo0bv96mu</odePageId>
+      <odeBlockId>block-mq9x1qdn-92j51eqvl</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6qur2s-qo0bv96mu</odePageId>
+          <odeBlockId>block-mq9x1qdn-92j51eqvl</odeBlockId>
+          <odeIdeviceId>idevice-1781207654599-y38y8fh6v</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa tu autoevaluación</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DF%F7%B2%F3%E7%E6%FD%F7%E4%F3%FEh%FD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%D1%E0%7F%E6%FB%F1%F3%E1%B2%D1%FD%FC%E1%E6%E0%E7%F1%E6%FB%E4%F3%E1%B2%A8%BB%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FF%E2%E0%F7%FC%F6%FD%B2%FE%F3%E1%B2%F4%E7%FC%F1%FB%FD%FC%F7%E1%B2%D1%E7%F3%F6%E0s%E6%FB%F1%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C1%7B%B2%E7%E6%FB%FE%FB%E8%F3%E0%B2%D5%F7%FD%F5%F7%F0%E0%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%E6%F7%E0%E2%E0%F7%E6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%E7%FC%F3%B2%E2%F3%E0s%F0%FD%FE%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FC%E6%FB%F7%FC%F6%FD%B2%FE%F3%B2%E0%F7%FE%F3%F1%FBa%FC%B2%F7%FC%E6%E0%F7%B2%FF%F3%E6%F7%FFs%E6%FB%F1%F3%E1%B2%EB%B2%F4%7F%E1%FB%F1%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2168,6 +2505,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781043608309-niq4o7xsu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este Recurso Educativo Abierto está dirigido al alumnado de Educación Secundaria y tiene como finalidad comprender las funciones cuadráticas mediante el estudio y modelización de situaciones reales.</p>\n<p>A lo largo de las diferentes sesiones, el alumnado utilizará herramientas digitales como GeoGebra, recursos colaborativos y materiales de apoyo para construir su propio aprendizaje.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2207,18 +2556,32 @@
           <odeIdeviceId>idevice-1781043666715-7qpxgdd4m</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Las actividades propuestas en este proyecto permiten trabajar los criterios de evaluación establecidos para la unidad.</p>
+    <p><br /></p>
+<p>Las actividades propuestas en este proyecto permiten trabajar los criterios de evaluación establecidos para la unidad.</p>
 <p>Durante las diferentes sesiones se valorará:</p>
 <p><strong>• La comprensión de las funciones cuadráticas.</strong></p>
 <p><strong>• La interpretación de representaciones gráficas.</strong></p>
-<p><strong>• El uso adecuado de GeoGebra.</strong></p>
+<p><strong title="Relación de Tareas con Criterios.pdf">• El uso adecuado de GeoGebra.</strong></p>
 <p><strong>• La aplicación de las matemáticas a situaciones reales.</strong></p>
 <p><strong>• La utilización responsable de las herramientas digitales.</strong></p>
-<p><strong>• La elaboración y presentación del producto final.</strong><br /></p>
+<p><strong>• La elaboración y presentación del producto final.</strong></p>
+<p>Enlace a la relación de Actividades con el Contenido <a href="{{context_path}}/content/resources/Relación de Tareas con Criterios.pdf" title="Relación de Tareas con Criterios.pdf" style="font-size: 16.8px; font-weight: bolder; color: #0a58ca; --bs-link-color-rgb: 10,88,202;">{{context_path}}/content/resources/Relación de Tareas con Criterios.pdf</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781043666715-7qpxgdd4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las actividades propuestas en este proyecto permiten trabajar los criterios de evaluación establecidos para la unidad.</p>\n<p>Durante las diferentes sesiones se valorará:</p>\n<p><strong>• La comprensión de las funciones cuadráticas.</strong></p>\n<p><strong>• La interpretación de representaciones gráficas.</strong></p>\n<p><strong>• El uso adecuado de GeoGebra.</strong></p>\n<p><strong>• La aplicación de las matemáticas a situaciones reales.</strong></p>\n<p><strong>• La utilización responsable de las herramientas digitales.</strong></p>\n<p><strong>• La elaboración y presentación del producto final.</strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781043666715-7qpxgdd4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>Las actividades propuestas en este proyecto permiten trabajar los criterios de evaluación establecidos para la unidad.</p>\n<p>Durante las diferentes sesiones se valorará:</p>\n<p><strong>• La comprensión de las funciones cuadráticas.</strong></p>\n<p><strong>• La interpretación de representaciones gráficas.</strong></p>\n<p><strong title=\"Relación de Tareas con Criterios.pdf\">• El uso adecuado de GeoGebra.</strong></p>\n<p><strong>• La aplicación de las matemáticas a situaciones reales.</strong></p>\n<p><strong>• La utilización responsable de las herramientas digitales.</strong></p>\n<p><strong>• La elaboración y presentación del producto final.</strong></p>\n<p>Enlace a la relación de Actividades con el Contenido <a href=\"{{context_path}}/content/resources/Relación de Tareas con Criterios.pdf\" title=\"Relación de Tareas con Criterios.pdf\" style=\"font-size: 16.8px; font-weight: bolder; color: #0a58ca; --bs-link-color-rgb: 10,88,202;\">{{context_path}}/content/resources/Relación de Tareas con Criterios.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2271,6 +2634,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781043721705-1egy62ys1","img_0":{"img":"{{context_path}}/content/resources/Minimalist Timeline Diagram Concept Map.png","thumbnail":"{{context_path}}/content/resources/Minimalist Timeline Diagram Concept Map.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2357,6 +2732,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781072814426-g55mq80k4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del REA:</strong><br />Caída libre y funciones cuadráticas</p>\n<p><strong>Descripción:</strong><br />Recurso Educativo Abierto diseñado para trabajar las funciones cuadráticas mediante la modelización de situaciones reales y el uso de herramientas digitales como GeoGebra.</p>\n<p><strong>Autor:</strong><br />Francisco García Morales</p>\n<p><strong>Herramienta de creación:</strong><br />eXeLearning</p>\n<p><strong>Nivel educativo:</strong><br />Educación Secundaria Obligatoria<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2403,6 +2790,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781072836859-ur4nala9h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo se publica bajo una licencia Creative Commons 4.0 Internacional (CC BY-SA 4.0).</p>\n<p>Esto permite utilizar, compartir y adaptar el material siempre que se reconozca la autoría y las obras derivadas se distribuyan bajo la misma licencia.</p>\n<p><strong>Las imágenes, recursos y materiales utilizados respetan los derechos de autor y sus correspondientes licencias.</strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2443,11 +2842,24 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>El archivo fuente editable del proyecto estará disponible junto con la publicación del recurso para facilitar su reutilización y adaptación por parte de otros docentes.</p>
-<p>Una vez exportado el proyecto, se añadirá el enlace correspondiente al archivo .elp.<br /></p>
+<p>Aquí enlace al archivo .elp<br /></p>
+<p><a href="{{context_path}}/content/resources/que-trayectoria-sigue-un-objeto-al-caer.elpx" title="que-trayectoria-sigue-un-objeto-al-caer.elpx">que-trayectoria-sigue-un-objeto-al-caer.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781073149458-4niull6gc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo fuente editable del proyecto estará disponible junto con la publicación del recurso para facilitar su reutilización y adaptación por parte de otros docentes.</p>\n<p>Una vez exportado el proyecto, se añadirá el enlace correspondiente al archivo .elp.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781073149458-4niull6gc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo fuente editable del proyecto estará disponible junto con la publicación del recurso para facilitar su reutilización y adaptación por parte de otros docentes.</p>\n<p>Aquí enlace al archivo .elp<br /></p>\n<p><a href=\"{{context_path}}/content/resources/que-trayectoria-sigue-un-objeto-al-caer.elpx\" title=\"que-trayectoria-sigue-un-objeto-al-caer.elpx\">que-trayectoria-sigue-un-objeto-al-caer.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2500,6 +2912,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781073216576-s5tn5n7i2","img_0":{"img":"{{context_path}}/content/resources/descarga.png","thumbnail":"{{context_path}}/content/resources/descarga.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
